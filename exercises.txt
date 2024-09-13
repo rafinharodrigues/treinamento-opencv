@@ -1,0 +1,19 @@
+1. Leia uma imagem com OpenCV e exiba-a em uma janela.
+
+2. Transforme uma imagem para escala de cinza e exiba a imagem resultante.
+
+3. Detecte as bordas da imagem em escala de cinza e exiba o resultado.
+
+4. Aplique uma dilatação nas bordas detectadas da imagem usando um kernel de 5x5 e mostre o resultado.
+
+5. Aplique uma erosão na imagem original após convertê-la para escala de cinza e exiba o resultado.
+
+6. Capture um vídeo de um arquivo e exiba em uma janela.
+
+7. Converta cada quadro do vídeo capturado para escala de cinza e mostre em tempo real.
+
+8. Aplique uma dilatação em uma imagem binária (preto e branco) usando um kernel de 3x3 e exiba a imagem dilatada.
+
+9. Capture um vídeo da webcam e mostre em tempo real usando o OpenCV.
+
+10. Capture um vídeo da webcam, converta cada quadro para escala de cinza, detecte bordas usando Canny e exiba o feed processado em tempo real.
